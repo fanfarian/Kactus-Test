@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "A68C34D2-7443-4628-A4F7-1AAF9C6CD1F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B983764F-CB23-4501-A91C-AC7DF2D7A7DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C5D56D5B-2D07-4DDA-880F-34506AA76F16",
+    "height": 216,
+    "width": 375,
+    "x": 0,
+    "y": 596
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Keyboards/Dark/Dictation",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B62637AB-9C2F-480B-8A48-008322359B6C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC0B15F0-3E0B-48C3-B998-70EC211C0D6A",
+  "verticalSpacing": 0
+}
