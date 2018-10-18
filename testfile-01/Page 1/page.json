@@ -1,6 +1,7 @@
 {
   "_class": "page",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "1f8e76c0-b81e-11e8-8836-35e2ee704409",
   "exportOptions": {
     "_class": "exportOptions",
@@ -20,6 +21,7 @@
     "y": 0
   },
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -333,
@@ -41,6 +43,10 @@
     {
       "class": "artboard",
       "id": "95CBDD12-63DC-4602-BB8C-8E77D9FB27A9"
+    },
+    {
+      "class": "artboard",
+      "id": "2FBF8396-0416-47F0-918E-831A1E28B494"
     }
   ],
   "name": "Page 1",
@@ -55,6 +61,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.animaPageID": "0E7E2AE9-4EBE-4EE9-81EC-92A90557D8ED"
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

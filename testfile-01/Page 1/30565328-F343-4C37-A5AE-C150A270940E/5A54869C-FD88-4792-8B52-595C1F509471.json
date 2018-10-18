@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "5A54869C-FD88-4792-8B52-595C1F509471",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,12 +20,13 @@
     "x": 0,
     "y": -71
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "name": "Views/Apple Pay",
   "nameIsFixed": false,

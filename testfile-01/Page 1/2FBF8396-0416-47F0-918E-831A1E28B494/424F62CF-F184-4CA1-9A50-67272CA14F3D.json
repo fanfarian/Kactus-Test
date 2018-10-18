@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "424F62CF-F184-4CA1-9A50-67272CA14F3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1BFDBDA-3B1A-4B6E-8C74-3AC6CA4359C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "52BE60F1-EA18-485F-904B-CAE5FE84A832",
+    "height": 300,
+    "width": 400,
+    "x": 642,
+    "y": 578
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecules/teaser/home//without_border/big copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D91AF030-5C77-4AF0-B7F7-8D26100F0CBB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FF2E44DD-00BC-4788-AC78-5EEF0100D2DC",
+  "verticalSpacing": 0
+}
